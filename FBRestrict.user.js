@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Facebook Restricción - Lista de Imágenes (v3.1 filtro inteligente SVG)
+// @name         Facebook Restricción
 // @namespace    https://github.com/Strakios/FBRestrict
-// @version      3.1
-// @description  Detecta imágenes relevantes (incluida la foto de perfil SVG del usuario restringido) e ignora fotos pequeñas como la del propio usuario. Se activa solo en perfiles restringidos y optimiza el rendimiento al máximo. Panel minimizable, movible y con limpieza 🗑️.
+// @version      2.0
+// @description  Detecta imágenes relevantes
 // @author       Strakios
 // @match        https://www.facebook.com/*
 // @icon         https://www.facebook.com/favicon.ico
